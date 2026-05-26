@@ -1,0 +1,43 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="NY64qaLV1FB5ZFd7h0yb">
+    <mxGraphModel dx="844" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-3" edge="1" parent="1" source="EBs89YIzMMBqPBDqR6-V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EBs89YIzMMBqPBDqR6-V-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="aluno&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-9" edge="1" parent="1" source="EBs89YIzMMBqPBDqR6-V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EBs89YIzMMBqPBDqR6-V-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="controlador" vertex="1">
+          <mxGeometry height="30" width="120" x="200" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="solicitacao de cancelamento de matricula&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-13" edge="1" parent="1" source="EBs89YIzMMBqPBDqR6-V-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EBs89YIzMMBqPBDqR6-V-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="tela do aluno&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="560" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Alterar status do aluno" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-11" edge="1" parent="1" source="EBs89YIzMMBqPBDqR6-V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EBs89YIzMMBqPBDqR6-V-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-8" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" value="confirmacao de cancelamento" vertex="1">
+          <mxGeometry height="35" width="120" x="360" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EBs89YIzMMBqPBDqR6-V-12" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" value="aviso de cancelamento" vertex="1">
+          <mxGeometry height="35" width="120" x="760" y="132.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
